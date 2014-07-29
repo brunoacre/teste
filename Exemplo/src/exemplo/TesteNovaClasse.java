@@ -10,4 +10,6 @@ package exemplo;
  */
 public class TesteNovaClasse {
     
+    private String teste = null;
+    
 }
