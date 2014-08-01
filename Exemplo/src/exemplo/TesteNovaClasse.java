@@ -11,6 +11,7 @@ package exemplo;
 public class TesteNovaClasse {
     
     private String teste = null;
+    private int j;
     private int i;
     
 }
