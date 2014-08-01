@@ -18,5 +18,9 @@ public class Exemplo {
         System.out.println("TESTE");
         System.out.println(" Testandoooooo \n oii c: \n Testandoooooo");
         
+        int x,n;
+        x = 9;
+        n = x - 3;
+        
     }
 }
